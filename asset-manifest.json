@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/klucas33.github.io/movie_app/static/css/main.4f7dfd85.chunk.css",
+    "main.js": "/klucas33.github.io/movie_app/static/js/main.2f0fac69.chunk.js",
+    "main.js.map": "/klucas33.github.io/movie_app/static/js/main.2f0fac69.chunk.js.map",
+    "runtime-main.js": "/klucas33.github.io/movie_app/static/js/runtime-main.8b4f6309.js",
+    "runtime-main.js.map": "/klucas33.github.io/movie_app/static/js/runtime-main.8b4f6309.js.map",
+    "static/js/2.5a2909fb.chunk.js": "/klucas33.github.io/movie_app/static/js/2.5a2909fb.chunk.js",
+    "static/js/2.5a2909fb.chunk.js.map": "/klucas33.github.io/movie_app/static/js/2.5a2909fb.chunk.js.map",
+    "index.html": "/klucas33.github.io/movie_app/index.html",
+    "static/css/main.4f7dfd85.chunk.css.map": "/klucas33.github.io/movie_app/static/css/main.4f7dfd85.chunk.css.map",
+    "static/js/2.5a2909fb.chunk.js.LICENSE.txt": "/klucas33.github.io/movie_app/static/js/2.5a2909fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b4f6309.js",
+    "static/js/2.5a2909fb.chunk.js",
+    "static/css/main.4f7dfd85.chunk.css",
+    "static/js/main.2f0fac69.chunk.js"
+  ]
+}
